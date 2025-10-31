@@ -7,8 +7,8 @@
 The dashboard is organized into four main pages:
 
 ### 1. Season Performance Overview
+<img width="1323" height="741" alt="image" src="https://github.com/user-attachments/assets/b177af86-13f0-48e9-8756-7e13d6071e16" />
 
-[cite_start]This page provides a snapshot of the entire season's key metrics[cite: 5].
 
 * **Key Performance Indicators (KPIs):**
     * [cite_start]**Total Games Played:** 2460 [cite: 10]
@@ -25,8 +25,8 @@ The dashboard is organized into four main pages:
     * [cite_start]**NBA Team Player Locations:** A map visualizing the geographical distribution of team players[cite: 15].
 
 ### 2. Team Performance Comparison
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/ec58cf1f-f701-4de4-9710-8b092dbe2db7" />
 
-[cite_start]This page allows for a detailed comparison between different NBA teams[cite: 77].
 
 * **Visualizations:**
     * [cite_start]**Team Selection:** Slicers to filter teams by name and strength (e.g., Strong, Average, Weak)[cite: 40, 50, 89].
@@ -36,7 +36,8 @@ The dashboard is organized into four main pages:
 
 ### 3. Player Performance Comparison by Team
 
-[cite_start]This page drills down into the specific performance metrics of players within a selected team [cite: 120][cite_start], such as the Denver Nuggets[cite: 133].
+<img width="1324" height="747" alt="image" src="https://github.com/user-attachments/assets/4fd4c639-3644-413f-b1ce-98f3af949b21" />
+
 
 * **Visualizations:**
     * [cite_start]**Player Performance Summary:** A detailed table listing each player's position, total points, assists, rebounds, and a calculated "Performance Score"[cite: 121, 122].
@@ -48,7 +49,8 @@ The dashboard is organized into four main pages:
 
 ### 4. Top Player Performance Comparison
 
-[cite_start]This final page provides a league-wide look at the top-performing players[cite: 248].
+<img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/b961597a-f5ab-4c50-9c17-45d308617a06" />
+
 
 * **KPIs:**
     * [cite_start]**Total Points:** 222K [cite: 271, 273]
